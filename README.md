@@ -1,2 +1,2 @@
 # GameClickerDapp
-Game Clicker in JS &amp; Solidity
+Game Clicker in JS & Solidity

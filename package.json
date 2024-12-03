@@ -1,0 +1,9 @@
+{
+  "name": "GameClickerDapp",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}
